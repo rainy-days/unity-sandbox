@@ -1,0 +1,3 @@
+[submodule "Assets/RainyDays"]
+	path = Assets/RainyDays
+	url = https://github.com/rainy-days/unity-tools.git
