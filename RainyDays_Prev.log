@@ -1,0 +1,10 @@
+﻿-- Date: 2016-05-07 10:07:14.751
+-- Process: C:\Program Files\Unity_5.3.3f1\Editor\Unity.exe (57212)
+-- Unity: 5.3.3f1
+-- Application: RainyDays, Unity Sandbox, version 1.0
+-- Environment: (EtienneW @ ETIENNEW-PC), machine ETIENNEW-PC, OS Microsoft Windows NT 6.1.7601.0
+
+10:07:14.781,T1,LOG,Created log file: C:\Users\EtienneW\Documents\rainydays\unity-sandbox\RainyDays.log
+	UnityEngine.Debug:Log(Object, Object)
+	RainyDays.FileLogger:OnEnable() (at Assets/RainyDays/Common/FileLogger.cs:25)
+	
